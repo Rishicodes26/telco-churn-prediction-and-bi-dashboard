@@ -88,8 +88,3 @@ The analysis demonstrates how data-driven insights can support:
 3. Service improvement initiatives
 4. Risk identification of vulnerable customer segments
 5. Evidence-based decision making
-
-# 👨‍💻 Author
-
-Debarshi Bhattacharya
-B.Tech — Computer Science Engineering (Data Science)
